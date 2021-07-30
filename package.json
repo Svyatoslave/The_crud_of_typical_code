@@ -1,0 +1,26 @@
+{
+  "name": "the_crud_of_typical_code",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cjs": "0.0.11",
+    "express": "^4.17.1",
+    "loader": "^2.1.1",
+    "mongoose": "^5.13.4",
+    "node": "^16.6.0",
+    "nodemon": "^2.0.7",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": " node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
