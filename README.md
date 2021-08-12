@@ -1,7 +1,7 @@
 # The_crud_of_typical_code
 main
 
-Before starting the server, the data is downloaded from the https://jsonplaceholder.typicode.comwith a check for their presence
+Before starting the server, the data is downloaded from the https://jsonplaceholder.typicode.com with a check for their presence
 
 
 CRUD users
